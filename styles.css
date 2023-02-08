@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* nav */
+.navbar{
+    background-color: rgb(0, 0, 0);
+}
+.nav-link{
+    color: white;
+    font-size: 20px;
+    font-family: serif;
+    margin-right: 30px;
+}
+.nav-link:hover{
+    color: white;
+}
+.navbar-brand{
+    padding-left: 30px;
+}
+/* footer */
+footer{
+    background-color: black;
+    font-size: small;
+}
+.nav-link-footer{
+    font-size: small;
+}
+.nav-link-footer:hover{
+    color: white;
+    font-size: large;
+}
+.icono{
+    padding-right: 15px;
+}
+.social{
+    font-family: serif;
+}
